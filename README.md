@@ -32,3 +32,6 @@ A simple Java console application for managing an Employee Payroll System, perfe
    ```bash
    java payroll.Main
    ```
+
+Ritesh kumar
+Intern Id: CITS3766
